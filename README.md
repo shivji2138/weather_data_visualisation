@@ -58,11 +58,6 @@ python main.py
 
 🖼️ Screenshots
 
-Add screenshots of your app UI here (optional but makes repo look professional)
-
-Example:
-
-/screenshots/
 <img width="1118" height="845" alt="Screenshot 2025-10-28 201742" src="https://github.com/user-attachments/assets/12da9d6c-d0a7-4d8e-a25b-3a757581ee51" />
 <img width="844" height="639" alt="Screenshot 2025-10-28 201801" src="https://github.com/user-attachments/assets/31251f71-8884-4fd7-839b-6f3f30877b48" />
 <img width="845" height="627" alt="Screenshot 2025-10-28 201817" src="https://github.com/user-attachments/assets/22450368-720f-46be-b069-7a967376e882" />
